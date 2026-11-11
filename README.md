@@ -4,9 +4,6 @@ Wine Proton builds for Winlator Tuning Steam shortcuts. The app downloads
 these files from this release. It does not follow GameNative or any other
 upstream repository.
 
-Bannerlator's Linux ARM64 Proton is not here. The Bannerlator files in
-this catalog are its bionic Wine layers.
-
 Each file is an unmodified copy of the named upstream release. Proton and
 Wine are their own licenses.
 
