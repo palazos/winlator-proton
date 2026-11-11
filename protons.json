@@ -1,0 +1,58 @@
+{
+  "protons": [
+    {
+      "id": "proton-9.0-arm64ec",
+      "title": "Proton 9",
+      "arch": "arm64ec",
+      "runner": "wow64",
+      "origin": "Tuning",
+      "file": "proton-9.0-arm64ec.tar.zst",
+      "sha256": "5f9375640479a5b2c4c3998fda689bb5085febc8fcdb7b6998c79d925392991a"
+    },
+    {
+      "id": "proton-9.0-x86_64",
+      "title": "Proton 9",
+      "arch": "x86_64",
+      "runner": "box64",
+      "origin": "Tuning",
+      "file": "proton-9.0-x86_64.tar.zst",
+      "sha256": "b4688130cd15818c2c46e66f2f7f7146d459a2d95bee1b3daf970f50dc4f8331"
+    },
+    {
+      "id": "proton-10.0-5-arm64ec",
+      "title": "Proton 10.0-5",
+      "arch": "arm64ec",
+      "runner": "wow64",
+      "origin": "Tuning",
+      "file": "proton-wine-10.0-5-arm64ec.tar.zst",
+      "sha256": "8cf0db4bb5e7e266e9e22e45e76722fb62cfbbf4e5e0e167a90c05c508e310ee"
+    },
+    {
+      "id": "proton-10.0-5-x86_64",
+      "title": "Proton 10.0-5",
+      "arch": "x86_64",
+      "runner": "box64",
+      "origin": "Tuning",
+      "file": "proton-10.0-5-x86_64.wcp",
+      "sha256": "2a5759e48b5f856d36eedac3e5159054629260a792fcf9c167140e02c06d8f0c"
+    },
+    {
+      "id": "proton-11.0-1-arm64ec",
+      "title": "Proton 11.0-1",
+      "arch": "arm64ec",
+      "runner": "wow64",
+      "origin": "Tuning",
+      "file": "proton-wine-11.0-1-arm64ec.wcp.xz",
+      "sha256": "a360f849f0ce3a808dacec854f25a641735a62ecc0eca8e09b7b7f7ff44041ff"
+    },
+    {
+      "id": "proton-11.0-2-arm64ec",
+      "title": "Proton 11.0-2",
+      "arch": "arm64ec",
+      "runner": "wow64",
+      "origin": "GameNative",
+      "file": "proton-wine-11.0-2-arm64ec.wcp.xz",
+      "sha256": "56ecc2ea71078847a5c8a053522c56baff5b455141752bf014a72ae23d3c5d66"
+    }
+  ]
+}
