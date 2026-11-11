@@ -53,6 +53,33 @@
       "origin": "GameNative",
       "file": "proton-wine-11.0-2-arm64ec.wcp.xz",
       "sha256": "56ecc2ea71078847a5c8a053522c56baff5b455141752bf014a72ae23d3c5d66"
+    },
+    {
+      "id": "proton-11.0-2-x86_64",
+      "title": "Proton 11.0-2",
+      "arch": "x86_64",
+      "runner": "box64",
+      "origin": "Bannerlator",
+      "file": "proton-11.0-2-x86_64.wcp",
+      "sha256": "bd53db23fc47bd88e53b3cf314259ce0cfe14f2525fe7807246660b804654bc2"
+    },
+    {
+      "id": "proton-11.0-12.3-arm64ec",
+      "title": "DroidDeck-Proton 11.0-12.3",
+      "arch": "arm64ec",
+      "runner": "wow64",
+      "origin": "Bannerlator",
+      "file": "DroidDeck-proton-11.0-12.3-arm64ec.wcp",
+      "sha256": "b88e121021403fdd3133260a9000024c6549732fd7d33436f30a47c97cb169be"
+    },
+    {
+      "id": "proton-11.0-12.3-x86_64",
+      "title": "DroidDeck-Proton 11.0-12.3",
+      "arch": "x86_64",
+      "runner": "box64",
+      "origin": "Bannerlator",
+      "file": "DroidDeck-proton-11.0-12.3-x86_64.wcp",
+      "sha256": "0dd99309919b77a8701fbf5ddaf698ea646c630ebec86b52d4ff359fb8572361"
     }
   ]
 }
